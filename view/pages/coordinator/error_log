@@ -1,0 +1,1 @@
+[11-Apr-2017 19:33:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/auahs/public_html/ewsd/model/dataHandler.php on line 59
